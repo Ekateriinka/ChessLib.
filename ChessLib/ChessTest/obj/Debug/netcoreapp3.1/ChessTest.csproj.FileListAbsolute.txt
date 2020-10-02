@@ -1,0 +1,16 @@
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.exe
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.deps.json
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.runtimeconfig.json
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.runtimeconfig.dev.json
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.dll
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessTest.pdb
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessLib.dll
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\bin\Debug\netcoreapp3.1\ChessLib.pdb
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.csprojAssemblyReference.cache
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.AssemblyInfoInputs.cache
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.AssemblyInfo.cs
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.csproj.CopyComplete
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.dll
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.pdb
+C:\Users\Артур\Source\Repos\ChessLib3\ChessLib\ChessTest\obj\Debug\netcoreapp3.1\ChessTest.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\ChessLib\\ChessTest\\ChessTest.csproj": {}
+    "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessTest\\ChessTest.csproj": {}
   },
   "projects": {
-    "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj": {
+    "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj",
+        "projectUniqueName": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj",
         "projectName": "ChessLib",
-        "projectPath": "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj",
+        "projectPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj",
         "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\ChessLib\\ChessLib\\obj\\",
+        "outputPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артур\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\repos\\ChessLib\\ChessTest\\ChessTest.csproj": {
+    "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessTest\\ChessTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\ChessLib\\ChessTest\\ChessTest.csproj",
+        "projectUniqueName": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessTest\\ChessTest.csproj",
         "projectName": "ChessTest",
-        "projectPath": "D:\\repos\\ChessLib\\ChessTest\\ChessTest.csproj",
+        "projectPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessTest\\ChessTest.csproj",
         "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\ChessLib\\ChessTest\\obj\\",
+        "outputPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артур\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj": {
-                "projectPath": "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj"
+              "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj": {
+                "projectPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj"
               }
             }
           }

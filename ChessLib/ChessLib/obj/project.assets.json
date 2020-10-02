@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj",
+      "projectUniqueName": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj",
       "projectName": "ChessLib",
-      "projectPath": "D:\\repos\\ChessLib\\ChessLib\\ChessLib.csproj",
+      "projectPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\ChessLib.csproj",
       "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\ChessLib\\ChessLib\\obj\\",
+      "outputPath": "C:\\Users\\Артур\\Source\\Repos\\ChessLib3\\ChessLib\\ChessLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артур\\AppData\\Roaming\\NuGet\\NuGet.Config",
