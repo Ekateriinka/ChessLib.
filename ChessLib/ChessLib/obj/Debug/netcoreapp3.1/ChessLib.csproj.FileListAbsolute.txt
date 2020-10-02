@@ -1,0 +1,18 @@
+D:\repos\Новая папка\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.deps.json
+D:\repos\Новая папка\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.dll
+D:\repos\Новая папка\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.pdb
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csprojAssemblyReference.cache
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfoInputs.cache
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfo.cs
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csproj.CoreCompileInputs.cache
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.dll
+D:\repos\Новая папка\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.pdb
+D:\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.deps.json
+D:\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.dll
+D:\repos\ChessLib\ChessLib\bin\Debug\netcoreapp3.1\ChessLib.pdb
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csprojAssemblyReference.cache
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfoInputs.cache
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.AssemblyInfo.cs
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.csproj.CoreCompileInputs.cache
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.dll
+D:\repos\ChessLib\ChessLib\obj\Debug\netcoreapp3.1\ChessLib.pdb
